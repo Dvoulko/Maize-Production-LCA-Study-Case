@@ -18,7 +18,7 @@ This project evaluates the environmental impacts of maize (corn) cultivation by 
 
 ### Technical Report (PDF)
 You can read the comprehensive analysis, methodology, and conclusions of the study in the official PDF report:
-👉 <a href="./Environmental Impact Assessment of Maize Production and Study of 3 Potential Scenarios.pdf).pdf">Read Full Technical Report Here</a>
+👉 <a href="./Environmental Impact Assessment of Maize Production and Study of 3 Potential Scenarios.pdf.pdf">Read Full Technical Report Here</a>
 
 ---
 
